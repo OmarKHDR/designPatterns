@@ -1,0 +1,15 @@
+/home/omar/alx/designPatterns/oopConcepts/abstraction/bin/Debug/net8.0/abstraction
+/home/omar/alx/designPatterns/oopConcepts/abstraction/bin/Debug/net8.0/abstraction.deps.json
+/home/omar/alx/designPatterns/oopConcepts/abstraction/bin/Debug/net8.0/abstraction.runtimeconfig.json
+/home/omar/alx/designPatterns/oopConcepts/abstraction/bin/Debug/net8.0/abstraction.dll
+/home/omar/alx/designPatterns/oopConcepts/abstraction/bin/Debug/net8.0/abstraction.pdb
+/home/omar/alx/designPatterns/oopConcepts/abstraction/obj/Debug/net8.0/abstraction.GeneratedMSBuildEditorConfig.editorconfig
+/home/omar/alx/designPatterns/oopConcepts/abstraction/obj/Debug/net8.0/abstraction.AssemblyInfoInputs.cache
+/home/omar/alx/designPatterns/oopConcepts/abstraction/obj/Debug/net8.0/abstraction.AssemblyInfo.cs
+/home/omar/alx/designPatterns/oopConcepts/abstraction/obj/Debug/net8.0/abstraction.csproj.CoreCompileInputs.cache
+/home/omar/alx/designPatterns/oopConcepts/abstraction/obj/Debug/net8.0/abstraction.sourcelink.json
+/home/omar/alx/designPatterns/oopConcepts/abstraction/obj/Debug/net8.0/abstraction.dll
+/home/omar/alx/designPatterns/oopConcepts/abstraction/obj/Debug/net8.0/refint/abstraction.dll
+/home/omar/alx/designPatterns/oopConcepts/abstraction/obj/Debug/net8.0/abstraction.pdb
+/home/omar/alx/designPatterns/oopConcepts/abstraction/obj/Debug/net8.0/abstraction.genruntimeconfig.cache
+/home/omar/alx/designPatterns/oopConcepts/abstraction/obj/Debug/net8.0/ref/abstraction.dll

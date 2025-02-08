@@ -2,7 +2,7 @@
 using System;
 using bank;
 /*
-* encapsulation: is isolating the critical code parts and allowing access
+* encapsulation: - is isolating the critical code parts and allowing access
 * 				 onl from a pre-made safer functions 
 * account has a property balance that shouldn't be edited without checking its value
 * so we create a withdrawal and deposite methods to check the amount added or substracted
