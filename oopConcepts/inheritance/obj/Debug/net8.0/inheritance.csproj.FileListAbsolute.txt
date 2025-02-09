@@ -1,0 +1,15 @@
+/home/omar/alx/designPatterns/oopConcepts/inheritance/obj/Debug/net8.0/inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/home/omar/alx/designPatterns/oopConcepts/inheritance/obj/Debug/net8.0/inheritance.AssemblyInfoInputs.cache
+/home/omar/alx/designPatterns/oopConcepts/inheritance/obj/Debug/net8.0/inheritance.AssemblyInfo.cs
+/home/omar/alx/designPatterns/oopConcepts/inheritance/obj/Debug/net8.0/inheritance.csproj.CoreCompileInputs.cache
+/home/omar/alx/designPatterns/oopConcepts/inheritance/obj/Debug/net8.0/inheritance.sourcelink.json
+/home/omar/alx/designPatterns/oopConcepts/inheritance/bin/Debug/net8.0/inheritance
+/home/omar/alx/designPatterns/oopConcepts/inheritance/bin/Debug/net8.0/inheritance.deps.json
+/home/omar/alx/designPatterns/oopConcepts/inheritance/bin/Debug/net8.0/inheritance.runtimeconfig.json
+/home/omar/alx/designPatterns/oopConcepts/inheritance/bin/Debug/net8.0/inheritance.dll
+/home/omar/alx/designPatterns/oopConcepts/inheritance/bin/Debug/net8.0/inheritance.pdb
+/home/omar/alx/designPatterns/oopConcepts/inheritance/obj/Debug/net8.0/inheritance.dll
+/home/omar/alx/designPatterns/oopConcepts/inheritance/obj/Debug/net8.0/refint/inheritance.dll
+/home/omar/alx/designPatterns/oopConcepts/inheritance/obj/Debug/net8.0/inheritance.pdb
+/home/omar/alx/designPatterns/oopConcepts/inheritance/obj/Debug/net8.0/inheritance.genruntimeconfig.cache
+/home/omar/alx/designPatterns/oopConcepts/inheritance/obj/Debug/net8.0/ref/inheritance.dll
