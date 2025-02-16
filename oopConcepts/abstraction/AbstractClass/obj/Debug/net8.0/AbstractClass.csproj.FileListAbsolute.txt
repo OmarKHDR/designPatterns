@@ -1,0 +1,15 @@
+/home/omar/alx/designPatterns/oopConcepts/abstraction/AbstractClass/obj/Debug/net8.0/AbstractClass.GeneratedMSBuildEditorConfig.editorconfig
+/home/omar/alx/designPatterns/oopConcepts/abstraction/AbstractClass/obj/Debug/net8.0/AbstractClass.AssemblyInfoInputs.cache
+/home/omar/alx/designPatterns/oopConcepts/abstraction/AbstractClass/obj/Debug/net8.0/AbstractClass.AssemblyInfo.cs
+/home/omar/alx/designPatterns/oopConcepts/abstraction/AbstractClass/obj/Debug/net8.0/AbstractClass.csproj.CoreCompileInputs.cache
+/home/omar/alx/designPatterns/oopConcepts/abstraction/AbstractClass/obj/Debug/net8.0/AbstractClass.sourcelink.json
+/home/omar/alx/designPatterns/oopConcepts/abstraction/AbstractClass/bin/Debug/net8.0/AbstractClass
+/home/omar/alx/designPatterns/oopConcepts/abstraction/AbstractClass/bin/Debug/net8.0/AbstractClass.deps.json
+/home/omar/alx/designPatterns/oopConcepts/abstraction/AbstractClass/bin/Debug/net8.0/AbstractClass.runtimeconfig.json
+/home/omar/alx/designPatterns/oopConcepts/abstraction/AbstractClass/bin/Debug/net8.0/AbstractClass.dll
+/home/omar/alx/designPatterns/oopConcepts/abstraction/AbstractClass/bin/Debug/net8.0/AbstractClass.pdb
+/home/omar/alx/designPatterns/oopConcepts/abstraction/AbstractClass/obj/Debug/net8.0/AbstractClass.dll
+/home/omar/alx/designPatterns/oopConcepts/abstraction/AbstractClass/obj/Debug/net8.0/refint/AbstractClass.dll
+/home/omar/alx/designPatterns/oopConcepts/abstraction/AbstractClass/obj/Debug/net8.0/AbstractClass.pdb
+/home/omar/alx/designPatterns/oopConcepts/abstraction/AbstractClass/obj/Debug/net8.0/AbstractClass.genruntimeconfig.cache
+/home/omar/alx/designPatterns/oopConcepts/abstraction/AbstractClass/obj/Debug/net8.0/ref/AbstractClass.dll

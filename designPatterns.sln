@@ -1,0 +1,60 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "oopConcepts", "oopConcepts", "{E291D9CC-B31A-7709-CEC5-47F1ED405B5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "encapsulation", "oopConcepts\encapsulation\encapsulation.csproj", "{CFD8A36F-915F-F1F4-C493-59218E91C463}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "polymorphism", "oopConcepts\polymorphism\polymorphism.csproj", "{EB0B58CD-1F3E-DF58-EEF7-A1E52CF540A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "inheritance", "oopConcepts\inheritance\inheritance.csproj", "{1A20000B-A96F-4CED-E1D1-4D513B91B7A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "abstraction", "oopConcepts\abstraction\abstraction.csproj", "{74305D22-069A-D939-6C87-51A806DBFC59}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "abstraction (1)", "abstraction (1)", "{8E68D1C6-02A1-F66C-DE31-6E3E10DFCDE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractClass", "oopConcepts\abstraction\AbstractClass\AbstractClass.csproj", "{7A11B3A1-37D5-A938-DBD8-6D39F2D641A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFD8A36F-915F-F1F4-C493-59218E91C463}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFD8A36F-915F-F1F4-C493-59218E91C463}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFD8A36F-915F-F1F4-C493-59218E91C463}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFD8A36F-915F-F1F4-C493-59218E91C463}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB0B58CD-1F3E-DF58-EEF7-A1E52CF540A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB0B58CD-1F3E-DF58-EEF7-A1E52CF540A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB0B58CD-1F3E-DF58-EEF7-A1E52CF540A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB0B58CD-1F3E-DF58-EEF7-A1E52CF540A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A20000B-A96F-4CED-E1D1-4D513B91B7A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A20000B-A96F-4CED-E1D1-4D513B91B7A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A20000B-A96F-4CED-E1D1-4D513B91B7A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A20000B-A96F-4CED-E1D1-4D513B91B7A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74305D22-069A-D939-6C87-51A806DBFC59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74305D22-069A-D939-6C87-51A806DBFC59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74305D22-069A-D939-6C87-51A806DBFC59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74305D22-069A-D939-6C87-51A806DBFC59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A11B3A1-37D5-A938-DBD8-6D39F2D641A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A11B3A1-37D5-A938-DBD8-6D39F2D641A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A11B3A1-37D5-A938-DBD8-6D39F2D641A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A11B3A1-37D5-A938-DBD8-6D39F2D641A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CFD8A36F-915F-F1F4-C493-59218E91C463} = {E291D9CC-B31A-7709-CEC5-47F1ED405B5C}
+		{EB0B58CD-1F3E-DF58-EEF7-A1E52CF540A8} = {E291D9CC-B31A-7709-CEC5-47F1ED405B5C}
+		{1A20000B-A96F-4CED-E1D1-4D513B91B7A6} = {E291D9CC-B31A-7709-CEC5-47F1ED405B5C}
+		{74305D22-069A-D939-6C87-51A806DBFC59} = {E291D9CC-B31A-7709-CEC5-47F1ED405B5C}
+		{8E68D1C6-02A1-F66C-DE31-6E3E10DFCDE4} = {E291D9CC-B31A-7709-CEC5-47F1ED405B5C}
+		{7A11B3A1-37D5-A938-DBD8-6D39F2D641A7} = {8E68D1C6-02A1-F66C-DE31-6E3E10DFCDE4}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5EB64CF6-0BCC-44AA-BF0E-D878D64B7948}
+	EndGlobalSection
+EndGlobal
