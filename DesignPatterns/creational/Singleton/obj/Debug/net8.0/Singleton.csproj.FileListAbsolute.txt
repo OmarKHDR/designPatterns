@@ -1,0 +1,15 @@
+/home/omar/alx/designPatterns/DesignPatterns/creational/Singleton/obj/Debug/net8.0/Singleton.GeneratedMSBuildEditorConfig.editorconfig
+/home/omar/alx/designPatterns/DesignPatterns/creational/Singleton/obj/Debug/net8.0/Singleton.AssemblyInfoInputs.cache
+/home/omar/alx/designPatterns/DesignPatterns/creational/Singleton/obj/Debug/net8.0/Singleton.AssemblyInfo.cs
+/home/omar/alx/designPatterns/DesignPatterns/creational/Singleton/obj/Debug/net8.0/Singleton.csproj.CoreCompileInputs.cache
+/home/omar/alx/designPatterns/DesignPatterns/creational/Singleton/obj/Debug/net8.0/Singleton.sourcelink.json
+/home/omar/alx/designPatterns/DesignPatterns/creational/Singleton/bin/Debug/net8.0/Singleton
+/home/omar/alx/designPatterns/DesignPatterns/creational/Singleton/bin/Debug/net8.0/Singleton.deps.json
+/home/omar/alx/designPatterns/DesignPatterns/creational/Singleton/bin/Debug/net8.0/Singleton.runtimeconfig.json
+/home/omar/alx/designPatterns/DesignPatterns/creational/Singleton/bin/Debug/net8.0/Singleton.dll
+/home/omar/alx/designPatterns/DesignPatterns/creational/Singleton/bin/Debug/net8.0/Singleton.pdb
+/home/omar/alx/designPatterns/DesignPatterns/creational/Singleton/obj/Debug/net8.0/Singleton.dll
+/home/omar/alx/designPatterns/DesignPatterns/creational/Singleton/obj/Debug/net8.0/refint/Singleton.dll
+/home/omar/alx/designPatterns/DesignPatterns/creational/Singleton/obj/Debug/net8.0/Singleton.pdb
+/home/omar/alx/designPatterns/DesignPatterns/creational/Singleton/obj/Debug/net8.0/Singleton.genruntimeconfig.cache
+/home/omar/alx/designPatterns/DesignPatterns/creational/Singleton/obj/Debug/net8.0/ref/Singleton.dll

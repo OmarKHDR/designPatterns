@@ -1,0 +1,15 @@
+/home/omar/alx/designPatterns/DesignPatterns/creational/AbstractFactory/obj/Debug/net8.0/FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+/home/omar/alx/designPatterns/DesignPatterns/creational/AbstractFactory/obj/Debug/net8.0/FactoryMethod.AssemblyInfoInputs.cache
+/home/omar/alx/designPatterns/DesignPatterns/creational/AbstractFactory/obj/Debug/net8.0/FactoryMethod.AssemblyInfo.cs
+/home/omar/alx/designPatterns/DesignPatterns/creational/AbstractFactory/obj/Debug/net8.0/FactoryMethod.csproj.CoreCompileInputs.cache
+/home/omar/alx/designPatterns/DesignPatterns/creational/AbstractFactory/obj/Debug/net8.0/FactoryMethod.sourcelink.json
+/home/omar/alx/designPatterns/DesignPatterns/creational/AbstractFactory/bin/Debug/net8.0/FactoryMethod
+/home/omar/alx/designPatterns/DesignPatterns/creational/AbstractFactory/bin/Debug/net8.0/FactoryMethod.deps.json
+/home/omar/alx/designPatterns/DesignPatterns/creational/AbstractFactory/bin/Debug/net8.0/FactoryMethod.runtimeconfig.json
+/home/omar/alx/designPatterns/DesignPatterns/creational/AbstractFactory/bin/Debug/net8.0/FactoryMethod.dll
+/home/omar/alx/designPatterns/DesignPatterns/creational/AbstractFactory/bin/Debug/net8.0/FactoryMethod.pdb
+/home/omar/alx/designPatterns/DesignPatterns/creational/AbstractFactory/obj/Debug/net8.0/FactoryMethod.dll
+/home/omar/alx/designPatterns/DesignPatterns/creational/AbstractFactory/obj/Debug/net8.0/refint/FactoryMethod.dll
+/home/omar/alx/designPatterns/DesignPatterns/creational/AbstractFactory/obj/Debug/net8.0/FactoryMethod.pdb
+/home/omar/alx/designPatterns/DesignPatterns/creational/AbstractFactory/obj/Debug/net8.0/FactoryMethod.genruntimeconfig.cache
+/home/omar/alx/designPatterns/DesignPatterns/creational/AbstractFactory/obj/Debug/net8.0/ref/FactoryMethod.dll

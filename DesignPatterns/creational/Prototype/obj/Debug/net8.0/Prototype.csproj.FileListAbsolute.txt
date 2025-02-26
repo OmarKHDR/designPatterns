@@ -1,0 +1,15 @@
+/home/omar/alx/designPatterns/DesignPatterns/creational/Prototype/obj/Debug/net8.0/Prototype.GeneratedMSBuildEditorConfig.editorconfig
+/home/omar/alx/designPatterns/DesignPatterns/creational/Prototype/obj/Debug/net8.0/Prototype.AssemblyInfoInputs.cache
+/home/omar/alx/designPatterns/DesignPatterns/creational/Prototype/obj/Debug/net8.0/Prototype.AssemblyInfo.cs
+/home/omar/alx/designPatterns/DesignPatterns/creational/Prototype/obj/Debug/net8.0/Prototype.csproj.CoreCompileInputs.cache
+/home/omar/alx/designPatterns/DesignPatterns/creational/Prototype/obj/Debug/net8.0/Prototype.sourcelink.json
+/home/omar/alx/designPatterns/DesignPatterns/creational/Prototype/bin/Debug/net8.0/Prototype
+/home/omar/alx/designPatterns/DesignPatterns/creational/Prototype/bin/Debug/net8.0/Prototype.deps.json
+/home/omar/alx/designPatterns/DesignPatterns/creational/Prototype/bin/Debug/net8.0/Prototype.runtimeconfig.json
+/home/omar/alx/designPatterns/DesignPatterns/creational/Prototype/bin/Debug/net8.0/Prototype.dll
+/home/omar/alx/designPatterns/DesignPatterns/creational/Prototype/bin/Debug/net8.0/Prototype.pdb
+/home/omar/alx/designPatterns/DesignPatterns/creational/Prototype/obj/Debug/net8.0/Prototype.dll
+/home/omar/alx/designPatterns/DesignPatterns/creational/Prototype/obj/Debug/net8.0/refint/Prototype.dll
+/home/omar/alx/designPatterns/DesignPatterns/creational/Prototype/obj/Debug/net8.0/Prototype.pdb
+/home/omar/alx/designPatterns/DesignPatterns/creational/Prototype/obj/Debug/net8.0/Prototype.genruntimeconfig.cache
+/home/omar/alx/designPatterns/DesignPatterns/creational/Prototype/obj/Debug/net8.0/ref/Prototype.dll
